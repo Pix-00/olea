@@ -16,7 +16,7 @@ flask-redis = "^0.4.0"
 psycopg2 = "^2.8.5"
 passlib = { extras = ["argon2"], version = "^1.7.4" }
 jsonschema = "^3.2.0"
-requests = "^2.24.0"
+requests = "^2.25.1"
 beautifulsoup4 = "^4.9.3"
 lxml = "^4.6.1"
 msal = "^1.6.0"
